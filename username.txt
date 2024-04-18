@@ -1,0 +1,18 @@
+Pasien
+Username = sena
+Password = sena12345
+
+Pakar
+Username = Dokter Budi
+Password = budi12345
+
+Admin
+Username = adminme
+Password = bagus12345
+
+bug 1
+muncul gejala double (done)
+bug 2
+hasil (done)
+bug 3 
+gejala terakhir tidak muncul (done)
